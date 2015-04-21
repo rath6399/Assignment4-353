@@ -1,18 +1,13 @@
-Welcome to your Appcelerator Titanium Mobile Project
+I like how basic and simple the running application looks, there is not too much going on and it allows for the viewer to pick up on the important details that the creator wants to be seen.  My only real comment on the landing page is that the blank grey space takes up so much of the screen, potentially reduce the size of the view so that there isn't so much grey space and let the rest of the theme colors come through.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+For the child page the white background for the table through the flow and consistency of the theme colors and led to a lot of
+blank space that seemed out of place. I would recommend changing the text coloring to the same color as that of the landing page
+as well as change the background of the view to the grey that you used on the landing page. Doing these changes does add more
+work to the assignment but all in all it would allow for a more consistent and fluid transition between the pages.
 
+When I changed the orientation of the screen, there was no dynamic changes to the app, this caused the facebook link to be
+directly on top of your name and basic information, this is an easy fix if you play around with the size of views and images as percentages of the screen.  This carried over to the child page and caused me to have to scroll through all of the information in your table instead of just being able to view it all at once.
 
+On a tablet I mostly have the same comments, with the exception that there is even more blank space, though when in the side view, it caused the app to look like the normal view for the phone emulator.
 
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+Overall I would say that this is an application that does the job that it was intended for with the exception of the tweaks that I recommended.  Solid job on the facebook linking as well, it was a flawless transition on my emulator.
